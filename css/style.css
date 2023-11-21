@@ -1,0 +1,12 @@
+h1,h3{color: brown; background-color:aqua; border: black 2px solid;}
+p {color: black;}
+li{margin: 5px;
+color:black;} 
+ .ingredients{color: black; font-size: medium;}
+ pre{margin: 20px; color: blue; text-align: center;border-color: crimson;}
+ ol> li{background-color: blueviolet;}
+ .ingredients{background-color: chocolate; border: red 5px solid; text-align: right;}
+ p {color:orange;}
+body {background-color: blanchedalmond;}
+
+ 
